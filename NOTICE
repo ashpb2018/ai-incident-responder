@@ -1,0 +1,13 @@
+Sentinel — Incident Response Agent
+Copyright (c) 2026 Ash K
+
+This project was inspired by and initially derived from an MIT-licensed
+open-source project:
+
+  ai_powered_incident_response_agent
+  https://github.com/sd031/ai_powered_incident_response_agent
+  Copyright (c) the original authors, MIT License.
+
+The MIT License requires that the original copyright and permission notice be
+retained. This NOTICE preserves that attribution. Sentinel has since been
+substantially rewritten and restructured.
