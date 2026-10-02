@@ -12,6 +12,19 @@ Any of three LLM backends works behind one interface — **Anthropic**, **AWS Be
 
 ---
 
+## Contents
+
+- [Highlights](#highlights)
+- [Architecture](#architecture)
+- [Quick start](#quick-start)
+- [Backends](#backends)
+- [Security model](#security-model)
+- [Development](#development)
+- [Demo](#demo)
+- [License](#license)
+
+---
+
 ## Highlights
 
 - **Alert-driven** — signed PagerDuty/OpsGenie webhooks, plus a synchronous `/investigate` endpoint for manual runs.
